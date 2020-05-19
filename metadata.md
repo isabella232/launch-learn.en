@@ -1,13 +1,13 @@
 ---
 cloud: experience-cloud
-product: adobe experience platform
+product: adobe experience platform launch
 solution-title: Documentation
-solution-hub-url: https://docs.adobe.com/content/help/en/experience-platform/landing/home.html
-getting-started-title: Experience League
-getting-started-url: https://experienceleague.adobe.com/#recommended/solutions/experience-platform
+solution-hub-url: https://docs.adobe.com/content/help/en/launch/using/overview.html
+getting-started-title: Community
+getting-started-url: https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/ct-p/adobe-launch-community
 tutorials-title: Tutorials
-tutorials-url: /content/help/en/platform-learn/tutorials/overview.html
-git-repo: https://github.com/AdobeDocs/platform-learn.en
+tutorials-url: /content/help/en/launch-learn/tutorials/overview.html
+git-repo: https://github.com/AdobeDocs/launch-learn.en
 index: yes
 mini-toc-levels: 2
 ---
