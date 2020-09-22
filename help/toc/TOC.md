@@ -25,8 +25,3 @@ audience: end-user
   + [Understanding the Mobile SDK](../launch-mobile/understanding-the-mobile-sdks.md)
   + [Create Mobile Properties](../launch-mobile/create-mobile-properties-in-launch.md)
   + [Use Dependency Managers](../launch-mobile/use-dependency-managers-with-mobile-sdk.md)
-+ Debugger{#debugger}
-  + [Add the Debugger](../debugger/add-the-extension.md)
-  + [Use the Debugger](../debugger/use-the-experience-cloud-debugger.md)
-  + [Troubleshoot Target](https://docs.adobe.com/content/help/en/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html)
-  + [Switch Launch Environments](https://docs.adobe.com/content/help/en/launch-learn/implementing-in-websites-with-launch/configure-launch/launch-switch-environments.html)
