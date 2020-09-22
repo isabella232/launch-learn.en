@@ -1,5 +1,7 @@
 ---
 user-guide-title: Adobe Experience Platform Launch Tutorials
+breadcrumb-title: Platform Launch Tutorials
+user-guide-description: A collection of how-to videos and tutorials to make you a power-user of Adobe Experience Platform Launch.
 audience: end-user
 ---
 

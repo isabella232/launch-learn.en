@@ -1,5 +1,7 @@
 ---
 user-guide-title: Implementing the Experience Cloud in Mobile iOS Objective-C Applications
+breadcrumb-title: iOS Objective-C Implementation Guide
+user-guide-description: Learn how to implement Adobe Experience Cloud solutions in mobile iOS Objective-C apps.
 user-guide-url: /content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html
 ---
 
