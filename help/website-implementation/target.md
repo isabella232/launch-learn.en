@@ -40,6 +40,7 @@ This has already been done on the Luma site, but let's go ahead and do this on t
 ```
 
 Open the sample page and paste it just before your Launch embed code as pictured below (don't worry if the line numbers are different):
+
    ![Hover over the extension](images/target-prehidingSnippet.png)
 
 Reload your sample page. You will notice that the page will be hidden for three seconds before it shown. This behavior is temporary and will go away after you have deployed Target. This pre-hiding behavior is controlled by two configurations at the very end of the snippet, which can be customized but are usually best left on the default settings:
